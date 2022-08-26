@@ -1,11 +1,7 @@
 import { AppRouter } from './routes/routes'
 
 function App() {
-  return (
-    <div>
-      <AppRouter />
-    </div>
-  )
+  return <AppRouter />
 }
 
 export default App
