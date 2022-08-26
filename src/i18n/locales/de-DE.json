@@ -1,0 +1,17 @@
+{
+  "common": {
+    "homeNavSolutuions": "Lösungen",
+    "homeNavPricing": "Preisgestaltung",
+    "homeNavDocs": "Dokumente",
+    "homeNavCompany": "Gesellschaft",
+    "homeHeroTitle": "Preispläne",
+    "homeHeroDescription": "Beginnen Sie kostenlos mit dem Bauen und fügen Sie dann einen Lageplan hinzu, um live zu gehen. Kontopläne schalten zusätzliche Funktionen frei.",
+    "homeHeroButtonAboutUs": "Über uns",
+    "homeHeroSelectTitle": "Wähle deine Sprache",
+    "homeHeroSelectOptionDeDe": "Deutsch (de-DE)",
+    "homeHeroSelectOptionEnUS": "Englisch (es-US)",
+    "homeHeroSelectOptionEsEs": "Spanisch (es-ES)",
+    "homeHeroSelectOptionPtBr": "Portugiesisch (pt-BR)",
+    "homeFooterRights": "Alle Rechte vorbehalten"
+  }
+}

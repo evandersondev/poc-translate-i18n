@@ -1,0 +1,17 @@
+{
+  "common": {
+    "homeNavSolutuions": "Soluções",
+    "homeNavPricing": "Preços",
+    "homeNavDocs": "Documentos",
+    "homeNavCompany": "Companhia",
+    "homeHeroTitle": "Planos de preços",
+    "homeHeroDescription": "Comece a construir gratuitamente e, em seguida, adicione um plano de site para ir ao ar. Os planos de conta desbloqueiam recursos adicionais.",
+    "homeHeroButtonAboutUs": "Sobre nós",
+    "homeHeroSelectTitle": "Selecione seu idioma",
+    "homeHeroSelectOptionDeDe": "Alemão (de-DE)",
+    "homeHeroSelectOptionEnUS": "Inglês (es-US)",
+    "homeHeroSelectOptionEsEs": "Espanhol (es-ES)",
+    "homeHeroSelectOptionPtBr": "Português (pt-BR)",
+    "homeFooterRights": "Todos os direitos reservados"
+  }
+}
